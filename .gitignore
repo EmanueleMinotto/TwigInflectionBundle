@@ -1,4 +1,5 @@
 # Managed by Composer
+/composer.lock
 /vendor/
 
 # PHPUnit
