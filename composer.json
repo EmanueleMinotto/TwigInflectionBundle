@@ -17,7 +17,7 @@
         }
     },
     "license": "MIT",
-    "name": "rdir/twig-inflection-bundle",
+    "name": "emanueleminotto/twig-inflection-bundle",
     "require": {
         "davedevelopment/twig-inflection": "^1.0"
     },
