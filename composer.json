@@ -1,0 +1,29 @@
+{
+    "authors": [
+        {
+            "email": "minottoemanuele@gmail.com",
+            "name": "Emanuele Minotto"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "EmanueleMinotto\\TwigInflectionBundle\\": "."
+        }
+    },
+    "description": "Symfony 2 Bundle for davedevelopment/twig-inflection",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        }
+    },
+    "license": "MIT",
+    "name": "rdir/twig-inflection-bundle",
+    "require": {
+        "davedevelopment/twig-inflection": "^1.0"
+    },
+    "require-dev": {
+        "matthiasnoback/symfony-dependency-injection-test": "0.*",
+        "phpunit/phpunit": "^4.8",
+        "symfony/symfony": "^2.7"
+    }
+}
