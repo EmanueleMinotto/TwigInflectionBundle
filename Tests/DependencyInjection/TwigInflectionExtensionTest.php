@@ -26,8 +26,6 @@ class TwigInflectionExtensionTest extends AbstractExtensionTestCase
 
     /**
      * Test bundle core service.
-     *
-     * @return void
      */
     public function testBundleService()
     {
