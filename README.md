@@ -1,6 +1,12 @@
 # Twig Inflection Bundle
 ========================
 
+[![Build Status](https://img.shields.io/travis/EmanueleMinotto/TwigInflectionBundle.svg?style=flat)](https://travis-ci.org/EmanueleMinotto/TwigInflectionBundle)
+[![SensioLabs Insight](https://img.shields.io/sensiolabs/i/febf9d62-0971-423d-832a-ece843eaf6f3.svg?style=flat)](https://insight.sensiolabs.com/projects/febf9d62-0971-423d-832a-ece843eaf6f3)
+[![Coverage Status](https://img.shields.io/coveralls/EmanueleMinotto/TwigInflectionBundle.svg?style=flat)](https://coveralls.io/r/EmanueleMinotto/TwigInflectionBundle)
+[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/EmanueleMinotto/TwigInflectionBundle.svg?style=flat)](https://scrutinizer-ci.com/g/EmanueleMinotto/TwigInflectionBundle/)
+[![Total Downloads](https://img.shields.io/packagist/dt/emanueleminotto/twig-inflection-bundle.svg?style=flat)](https://packagist.org/packages/emanueleminotto/twig-inflection-bundle)
+
 Symfony 2 Bundle for [davedevelopment/twig-inflection](https://github.com/davedevelopment/twig-inflection).
 
 Step 1: Download the Bundle
