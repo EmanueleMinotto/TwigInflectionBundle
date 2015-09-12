@@ -1,5 +1,5 @@
-# Twig Inflection Bundle
-========================
+Twig Inflection Bundle
+======================
 
 [![Build Status](https://img.shields.io/travis/EmanueleMinotto/TwigInflectionBundle.svg?style=flat)](https://travis-ci.org/EmanueleMinotto/TwigInflectionBundle)
 [![SensioLabs Insight](https://img.shields.io/sensiolabs/i/d99569d7-c180-4ecb-951b-dc94d4a51e55.svg?style=flat)](https://insight.sensiolabs.com/projects/d99569d7-c180-4ecb-951b-dc94d4a51e55)
@@ -49,7 +49,7 @@ class AppKernel extends Kernel
 Usage
 -----
 
-*pluralize*
+**pluralize**
 
 ```twig
 {{ "chicken"|pluralize }}
@@ -67,7 +67,7 @@ Usage
 => 2 users
 ```
 
-*singularize*
+**singularize**
 
 The opposite of pluralize, working in the same manner
 
