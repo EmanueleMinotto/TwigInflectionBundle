@@ -19,9 +19,9 @@ class TwigInflectionExtensionTest extends AbstractExtensionTestCase
      */
     protected function getContainerExtensions()
     {
-        return array(
+        return [
             new TwigInflectionExtension(),
-        );
+        ];
     }
 
     /**
