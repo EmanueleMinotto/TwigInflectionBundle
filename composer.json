@@ -6,6 +6,9 @@
         }
     ],
     "autoload": {
+        "exclude-from-classmap": [
+            "/Tests/"
+        ],
         "psr-4": {
             "EmanueleMinotto\\TwigInflectionBundle\\": "."
         }
